@@ -25,7 +25,7 @@ gem 'font-awesome-rails'
 gem 'jquery-rails'
 gem 'devise'
 gem 'carrierwave'
-gem 'mini_magick'
+
 gem 'pry-rails'
 gem 'cancancan'
 gem 'better_errors', group: :development
